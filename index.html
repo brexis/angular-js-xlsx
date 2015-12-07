@@ -1,15 +1,3 @@
-# angular-js-xlsx
-An angular directive to read XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) [https://github.com/brexis/angular-js-xlsx](https://github.com/brexis/angular-js-xlsx)
-
-# Installation
-
-```
-  bower install angular-js-xlsx
-```
-
-# Use
-
-```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,8 +9,8 @@ An angular directive to read XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spr
     <js-xls onread="read" onerror="error"></js-xls>
   </div>
 
-  <script type="text/javascript" src="angular.min.js"></script>
-  <script type="text/javascript" src="xlsx.core.min.js"></script>
+  <script type="text/javascript" src="bower_components/angular/angular.min.js"></script>
+  <script type="text/javascript" src="bower_components/js-xlsx/dist/xlsx.core.min.js"></script>
   <script type="text/javascript" src="angular-js-xlsx.js"></script>
   <script type="text/javascript">
     angular.module('MyApp', ['angular-js-xlsx'])
@@ -40,4 +28,3 @@ An angular directive to read XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spr
   </script>
 </body>
 </html>
-```
