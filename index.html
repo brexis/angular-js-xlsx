@@ -17,7 +17,10 @@
     .controller('myController', function($scope) {
       $scope.read = function (workbook) {
         /* DO SOMETHING WITH workbook HERE */
-        console.log(workbook);
+        for (var sheetName in workbook.Sheets) {
+          var jsonData = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName]);
+          console.log(jsonData);
+        }
       }
 
       $scope.error = function (e) {
