@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('angular-js-xlsx', [])
-.directive('jsXls', function () {
+.directive('jsXlsx', function () {
   return {
     restrict: 'E',
     template: '<input type="file" />',
