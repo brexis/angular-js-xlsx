@@ -39,7 +39,7 @@ angular.module('angular-js-xlsx', [])
             element.val('');
           };
 
-          reader.readAsBinaryString(f);
+          reader.readAsText(f);
         }
       }
 
