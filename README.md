@@ -4,7 +4,10 @@ An angular directive to read XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spr
 # Installation
 
 ```
+  # Bower
   bower install angular-js-xlsx
+  # NPM
+  npm install angular-js-xlsx
 ```
 
 # Use
