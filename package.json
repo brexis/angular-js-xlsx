@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "xlsx":"~0.8.0",
-    "angularjs":"~1.4.8"
+    "angular":"~1.4.8"
   },
   "homepage": "https://github.com/brexis/angular-js-xlsx#readme"
 }
