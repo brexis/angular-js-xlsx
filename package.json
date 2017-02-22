@@ -1,6 +1,6 @@
 {
   "name": "angular-js-xlsx",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An angular directive to read XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet)",
   "main": "angular-js-xlsx.js",
   "scripts": {
