@@ -4,8 +4,11 @@ angular.module('angular-js-xlsx', [])
   .directive('jsXls', function () {
     return {
       restrict: 'E',
-      template: '<input type="file" />',
+      template: '<input type="file" accept="{{::accept}}" />',
       replace: true,
+      scope: {
+        accept: "@"
+      },
       link: function (scope, element, attrs) {
 
         function handleSelect() {
