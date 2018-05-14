@@ -1,9 +1,9 @@
 {
-  "name": "angular-js-xlsx",
+  "name": "angularjs-xlsx",
   "version": "0.0.2",
-  "homepage": "https://github.com/brexis/angular-js-xlsx",
+  "homepage": "https://github.com/sharmarahul25/angularjs-xlsx",
   "authors": [
-    "Boris KOUMONDJI <brexis2009@yahoo.fr>"
+    "Rahul Sharma <rahul.s@access-designs.com>"
   ],
   "description": "An angular directive to read XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet)",
   "main": [
