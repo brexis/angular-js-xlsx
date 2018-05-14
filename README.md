@@ -5,9 +5,9 @@ An angular directive to read XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spr
 
 ```
   # Bower
-  bower install angular-js-xlsx
+  bower install sharma-angular-js-xlsx
   # NPM
-  npm install angular-js-xlsx
+  npm install sharma-angular-js-xlsx
 ```
 
 # Use
