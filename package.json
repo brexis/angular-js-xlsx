@@ -1,5 +1,5 @@
 {
-  "name": "angularjs-xlsx",
+  "name": "sharma-angular-js-xlsx",
   "version": "0.0.1",
   "description": "An angular directive to read XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet)",
   "main": "angular-js-xlsx.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sharmarahul25/angularjs-xlsx"
+    "url": "git+https://github.com/sharmarahul25/angular-js-xlsx"
   },
   "keywords": [
     "excel",
@@ -26,11 +26,11 @@
   "author": "Rahul Sharma <rahul.s@access-designs.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sharmarahul25/angularjs-xlsx/issues"
+    "url": "https://github.com/sharmarahul25/angular-js-xlsx/issues"
   },
   "dependencies": {
     "xlsx":"~0.8.0",
     "angular":"~1.4.8"
   },
-  "homepage": "https://github.com/sharmarahul25/angularjs-xlsx#readme"
+  "homepage": "https://github.com/sharmarahul25/angular-js-xlsx#readme"
 }
