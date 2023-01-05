@@ -1,6 +1,6 @@
 {
   "name": "angular-js-xlsx",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "homepage": "https://github.com/brexis/angular-js-xlsx",
   "authors": [
     "Boris KOUMONDJI <brexis2009@yahoo.fr>"
@@ -19,7 +19,7 @@
     "tests"
   ],
   "dependencies": {
-    "js-xlsx": "~0.8.0",
+    "js-xlsx": "^0.18.2",
     "angular": "~1.4.8"
   },
   "keywords": [

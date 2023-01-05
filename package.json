@@ -1,6 +1,6 @@
 {
   "name": "angular-js-xlsx",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An angular directive to read XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet)",
   "main": "angular-js-xlsx.js",
   "scripts": {
@@ -29,8 +29,8 @@
     "url": "https://github.com/brexis/angular-js-xlsx/issues"
   },
   "dependencies": {
-    "xlsx":"~0.8.0",
-    "angular":"~1.4.8"
+    "xlsx": "~0.8.0",
+    "angular": "~1.4.8"
   },
   "homepage": "https://github.com/brexis/angular-js-xlsx#readme"
 }
